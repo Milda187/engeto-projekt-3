@@ -1,2 +1,2 @@
 # engeto-projekt-3
-Komplexni webová stránka
+Komplexni webové stránky
